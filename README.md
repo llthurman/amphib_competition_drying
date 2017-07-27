@@ -55,9 +55,9 @@ IndivLarvWt = average weight of larvae measured as LarvBiomass divided by NumLar
 Gosner = average Gosner developmental stage 
 
 
-# Emergence data
+# Emergencedata.csv
 
 
-# Metamorph data
+# Metamorphdata.csv
 
 
