@@ -16,46 +16,34 @@ Hydroperiod treatments: Permanent, Drying
 # File information: 
 
 # Larvaldata.csv
+Experimental results for performance measures taken during the larval period of growth and development.
+
 Column headers:
 
 Data = Date
-
 SamplingPeriod = 10-day intervals (7 sampling periods total, including sampling on day 0 = sampling period 1)
-
-Block = The experiment was blocked so that individuals in each of the five treatment combination replicates were sampled sequentially over the course of five days (e.g. first day of sampling = 1 replicate of all 7 x 2 treatment combinations)
-
+Block = The experiment was blocked so that individuals in each of the five treatment combination replicates were sampled sequentially   over the course of five days (e.g. first day of sampling = 1 replicate of all 7 x 2 treatment combinations)
 Tub = experimental mesocosm tub 
-
 TreatComp = Competition treatment (See information above for letter coding)
-
 TreatHydro = Hydroperiod treatment
-
-TempMean = mean temperature for each sampling period (sensors in Block 1)
-
-TempRange = range of aquatic temperature for each sampling period (sensors in Block 1)
-
-TempSD = standard deviation of aquatic temperature for each sampling period (sensors in Block 1)
-
 Species = four-letter Genus and species code (e.g. PSRE = Pseudacris regilla/Pacific chorus frog)
-
-TotalNum = total number of individuals alive (including larvae and metamorphs) 
-
+TotalNumIndiv = total number of individuals alive (including larvae and metamorphs) 
 NumLarvae = total number of larvae alive 
-
 PropLarvae = proportion of larvae alive (out of total, including metamorphs) 
-
-NumMetas = total number of metamorphs alive
-
-PropMetas = proportion of metamorphs alive (out of total, including larvae)
-
 LarvBiomass = larval biomass (g) measured as the collective weight of all larvae in a tub
-
 IndivLarvWt = average weight of larvae measured as LarvBiomass divided by NumLarvae
-
 Gosner = average Gosner developmental stage 
 
 
 # Emergencedata.csv
+Experimental results for time to emergence.
+
+Column headers (not previously described):
+
+NumMetas = total number of individuals that metamorphosed by the end of the experiment
+AvgDays = average number of days to emergence
+NPossible = total number of individuals at the beginning of the experiment
+
 
 
 # Metamorphdata.csv
