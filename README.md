@@ -57,5 +57,7 @@ NPossible = total number of individuals at the beginning of the experiment
 
 IndivMetaWt = average weight of juveniles measured as their total biomass (g) divided by NumMetas
 
+# Survivaldata.csv
+Experimental results for survivorship (measured as number of juveniles metamorphosed by end of experiment). Data is binary; each individual either survived/metamorphosed (=1), or died/remained as larvae (=0) by end of experiment. 
 
 
