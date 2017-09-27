@@ -16,7 +16,7 @@ Hydroperiod treatments: Permanent, Drying
 # File information: 
 
 # Larvaldata.csv
-Experimental results for performance measures taken during the larval period of growth and development.
+Experimental results for performance measures taken on larval growth and development.
 
 Column headers:
 
@@ -39,23 +39,23 @@ NumLarvae = total number of larvae alive
 
 PropLarvae = proportion of larvae alive (out of total, including metamorphs) 
 
-LarvBiomass = larval biomass (g) measured as the collective weight of all larvae in a tub
-
-IndivLarvWt = average weight of larvae measured as LarvBiomass divided by NumLarvae
+IndivLarvWt = average weight of larvae measured as their total biomass (g) divided by NumLarvae
 
 Gosner = average Gosner developmental stage 
 
 
 # Emergencedata.csv
-Experimental results for time to emergence.
+Experimental results for juvneile performance measures.
 
 Column headers (not previously described):
 
 NumMetas = total number of individuals that metamorphosed by the end of the experiment
+
 AvgDays = average number of days to emergence
+
 NPossible = total number of individuals at the beginning of the experiment
 
+IndivMetaWt = average weight of juveniles measured as their total biomass (g) divided by NumMetas
 
-# Metamorphdata.csv
 
 
